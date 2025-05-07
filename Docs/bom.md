@@ -63,6 +63,12 @@ nav_order: 2
             <td>20cm Length</td>
             <td>$3</td>
         </tr>
+        <tr>
+            <td><b>TOTAL</b></td>
+            <td></td>
+            <td></td>
+            <td><b>$9001</b></td>
+        </tr>
     </tbody>
 </table>
 ---
