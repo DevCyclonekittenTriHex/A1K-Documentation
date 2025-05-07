@@ -1,9 +1,9 @@
 ---
-title: Heated Bed Wiring - Optional
+title: Heated Bed
 layout: home
 parent: Build
+nav_order: 8
 ---
-
 
 <h1>Hardware assembly guide</h1>
 <h3>This page guides through the process of wiring up an skr pico to the bambu labs a1.</h3>

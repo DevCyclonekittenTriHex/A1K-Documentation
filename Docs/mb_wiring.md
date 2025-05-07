@@ -1,7 +1,8 @@
 ---
-title: Wiring the Mainboard
+title: Mainboard
 layout: home
 parent: Build
+nav_order: 10
 ---
 
 

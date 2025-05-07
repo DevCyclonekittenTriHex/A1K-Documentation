@@ -1,7 +1,8 @@
 ---
-title: Wiring the Toolhead
+title: Toolhead
 layout: home
 parent: Build
+nav_order: 9
 ---
 
 
