@@ -1,5 +1,5 @@
 ---
-title: Wiring the Toolhead
+title: Bill of Materials
 layout: home
 ---
 
