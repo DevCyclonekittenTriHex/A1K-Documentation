@@ -1,11 +1,26 @@
 ---
-title: Home
+title: Wiring the Toolhead
 layout: home
 ---
 
 
 <h1>Hardware assembly guide</h1>
 <h3>This page guides through the process of wiring up an skr pico to the bambu labs a1.</h3>
+
+<h2>Motor Wiring</h2>
+<h3>1. X Motor
+<br>Start by removing the live camera and all th
+<br>
+<br>
+<br>
+</h3>
+
+
+
+
+
+
+
 
 <h2>Toolhead Wiring</h2>
 <h3>1. Start by unplugging all conectors from the toolhead board.<h3>
@@ -32,12 +47,13 @@ layout: home
 <br>Plug in fan1 (exf) connector into the extruder fan (jst xh x5), and plug the other end into the lazer port near the fans (?)
 <br>Connect the thermister and hotend wires to their respective areas, and <b>DO NOT PLUG THE THERMISTER INTO THE HOTEND PORT, IT WILL COOK IT AND YOU WILL BE SAD<b>
 <br>Try and put some tape over the filament sensor ribbon cable, and eddy sensor leads to not cause a short.
+<br>Get the printed toolhead cover from before and place it on, route the btt microprobe cables around and wire it up to the probe and servo ports. And put a jumper connecting the P_2 and Probe pins together.
+<br>Nows your time to check the connection in the next step, then afterwards route it through a nylon sleeve if needed.
 </h3>
 
 <h3>4. Sanity Check.
 <br> Empty,
 </h3>
-
 
 
 
