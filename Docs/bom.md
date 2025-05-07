@@ -1,7 +1,7 @@
 ---
 title: Bill of Materials
 layout: home
-nav_order: 9
+nav_order: 2
 ---
 
 
