@@ -1,10 +1,11 @@
 ---
 title: Wiring the Mainboard
 layout: home
+parent: Build
 ---
 
 
-<h1>Hardware assembly guide</h1>
+<h1>Hardware assem/bly guide</h1>
 <h3>This page guides through the process of wiring up an skr pico to the bambu labs a1.</h3>
 
 <h2>Motor Wiring</h2>

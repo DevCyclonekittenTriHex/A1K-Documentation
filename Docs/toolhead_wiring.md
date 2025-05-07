@@ -1,6 +1,7 @@
 ---
 title: Wiring the Toolhead
 layout: home
+parent: Build
 ---
 
 

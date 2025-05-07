@@ -1,6 +1,7 @@
 ---
 title: Bill of Materials
 layout: home
+parent: Build
 ---
 
 

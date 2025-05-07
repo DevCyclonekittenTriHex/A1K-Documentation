@@ -1,6 +1,7 @@
 ---
 title: Heated Bed Wiring - Optional
 layout: home
+parent: Build
 ---
 
 
