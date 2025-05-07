@@ -27,10 +27,16 @@ nav_order: 2
             <td>Without Bracket</td>
             <td>$24</td>
         </tr>
-        <tr>
-            <td>5 Coloured Wires</td>
+        </tr>
+            <td>Btt SFS V2</td>
             <td>1</td>
-            <td>22 AWG</td>
+            <td>-</td>
+            <td>$15</td>
+        </tr>
+        <tr>
+            <td>Insulated Wires, 50M</td>
+            <td>1</td>
+            <td>22 AWG, 5 Colours</td>
             <td>$12</td>
         </tr>
         <tr>
@@ -38,6 +44,18 @@ nav_order: 2
             <td>1</td>
             <td>With or without crimping tool</td>
             <td>$6</td>
+        </tr>
+        <tr>
+            <td>Jst XH Crimping Set</td>
+            <td>1</td>
+            <td>With or without crimping tool</td>
+            <td>$6</td>
+        </tr>
+        <tr>
+            <td>MellowFly HDMI7</td>
+            <td>Optional</td>
+            <td>Screen</td>
+            <td>$51</td>
         </tr>
     </tbody>
 </table>
