@@ -18,7 +18,7 @@ nav_order: 2
         <tr>
             <td>Skr Pico</td>
             <td>1</td>
-            <td>Skr Pico Base</td>
+            <td>-</td>
             <td>$40</td>
         </tr>
         <tr>
@@ -46,16 +46,22 @@ nav_order: 2
             <td>$6</td>
         </tr>
         <tr>
-            <td>Jst XH Crimping Set</td>
-            <td>1</td>
-            <td>With or without crimping tool</td>
-            <td>$6</td>
-        </tr>
-        <tr>
             <td>MellowFly HDMI7</td>
-            <td>Optional</td>
+            <td>Optionall</td>
             <td>Screen</td>
             <td>$51</td>
+        </tr>
+        <tr>
+            <td>500g Filament Spool For Parts</td>
+            <td>1</td>
+            <td>PETG or ABS</td>
+            <td>$25</td>
+        </tr>
+        <tr>
+            <td>Cable Ties</td>
+            <td>1</td>
+            <td>20cm Length</td>
+            <td>$3</td>
         </tr>
     </tbody>
 </table>
