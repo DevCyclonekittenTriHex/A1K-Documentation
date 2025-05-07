@@ -6,6 +6,30 @@ nav_order: 1
 
 
 <h1>A1 Klipper Documentation</h1>
-<h3>The A1 Klipper projects aim is to modify a bambu labs a1 printer to have all the features and control from klipper</h3>
-<a href="https://devcyclonekittentrihex.github.io/A1K-Documentation/Docs/assembly_guide.html">Go here.</a>
+
+
+
+
+![Klipper Logo](/KicadImages/KlipperLogo.png)
+![Printe Imager](/KicadImages/bbl_a1.png)
+
+
+
+<h3><b>Doing any modifications may void your warrenty! This Project is in currently not finished, this conversion is done fully at your own risk, I am not liable for any damages done to your machine.</b></h3> 
+
+<h3>
+The aim of this project is to add klipper functional to the powerful Bambu Labs A1.
+Due to the recent push for "privacy and security", people are wanting to add freedom back to their machines.
+</h3>
+
+<h3>This project has mostly everything working
+<br><li>Hotend and Thermisters</li>
+<br><li>All Stepper Motors</li>
+<br><li>All Fans*</li>
+<br><li>Heated Bed (not done yet tho)</li>
+</h3>
+
+
+<h2>Join Chaz's <a href="https://discord.gg/W6B5mBejuC">Discord Server</a> to help.</h2>
+
 ----
