@@ -1,12 +1,12 @@
 ---
 title: Bill of Materials
 layout: home
-parent: Build
+nav_order: 2
 ---
 
 
 <h1>Bill of Materials</h1>
-<h2><b>All prices are in aud and may change, this excludes aliexpress tax, but includes shipping.</h2>
+<h2><b>All prices are in aud and may change, this excludes aliexpress tax, but includes shipping.</b></h2>
 <table>
     <tbody>
         <tr>
