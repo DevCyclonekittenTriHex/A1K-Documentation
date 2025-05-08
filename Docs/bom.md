@@ -7,6 +7,8 @@ nav_order: 2
 
 <h1>Bill of Materials</h1>
 <h2><b>All prices are in aud and may change, this excludes aliexpress tax, but includes shipping.</b></h2>
+----
+<h2>HardWare</h2>
 <table>
     <tbody>
         <tr>
@@ -27,7 +29,7 @@ nav_order: 2
             <td>Without Bracket</td>
             <td>$24</td>
         </tr>
-        </tr>
+        <tr>
             <td>Btt SFS V2</td>
             <td>1</td>
             <td>-</td>
@@ -68,6 +70,44 @@ nav_order: 2
             <td></td>
             <td></td>
             <td><b>$9001</b></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h2>Equipment</h2>
+<h3>This is equipment that you might have laying around, these items aren't project specific but are needed.</h3>
+<table>
+    <tbody>
+        <tr>
+            <td><b>Name</b></td>
+            <td><b>Use</b></td>
+            <td><b>Price</b></td>
+        </tr>
+        <tr>
+            <td>Soldering Iron</td>
+            <td>Soldering wires together</td>
+            <td>$20</td>
+        </tr>
+        <tr>
+            <td>Heat shrink tubing 4-5mmD</td>
+            <td>Enclosing joint wires to prevent short circut vc vg</td>
+            <td>$5</td>
+        </tr>
+        <tr>
+            <td>Thin pliers</td>
+            <td>To crimp JST XH without crimping tool</td>
+            <td>$5</td>
+        </tr>
+        <tr>
+            <td>Wire Stripper</td>
+            <td>Help to strip wires, scissors can work aswell.</td>
+            <td>$5</td>
+        </tr>
+        <tr>
+            <td>Zip Ties</td>
+            <td>Cable Management</td>
+            <td>$2</td>
         </tr>
     </tbody>
 </table>

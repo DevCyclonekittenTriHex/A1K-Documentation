@@ -2,26 +2,8 @@
 title: Toolhead
 layout: home
 parent: Build
-nav_order: 9
+nav_order: 2
 ---
-
-
-<h1>Hardware assembly guide</h1>
-<h3>This page guides through the process of wiring up an skr pico to the bambu labs a1.</h3>
-
-<h2>Motor Wiring</h2>
-<h3>1. X Motor
-<br>Start by removing the live camera and all th
-<br>
-<br>
-<br>
-</h3>
-
-
-
-
-
-
 
 
 <h2>Toolhead Wiring</h2>
@@ -29,7 +11,7 @@ nav_order: 9
 <image src="Images/Hardware/toolhead_board_removal_1.jpg">
 <image src="Images/Hardware/toolhead_board_removal_2.jpg">
 <h5>Source: Bambu Labs Wiki</h5>
-
+----
 <h3>2. Prepare the cables.
 <br>The cables that are required are as follows:
 <br>insert image of as follows,
@@ -40,7 +22,7 @@ nav_order: 9
 <br>jst xh 2 pin for hotend.
 <br>And take out the hotend, solder on wires and jst xh x 2 for the hotend and thermister
 </h3>
-
+----
 
 <h3>3. Route the Cables.
 <br><b>You can use a nylon sleeve around the wires to keep them safe, if so, plug the connectors into the toolhead, then route them through, then finally plug them into the skr pico</b>
@@ -52,11 +34,9 @@ nav_order: 9
 <br>Get the printed toolhead cover from before and place it on, route the btt microprobe cables around and wire it up to the probe and servo ports. And put a jumper connecting the P_2 and Probe pins together.
 <br>Nows your time to check the connection in the next step, then afterwards route it through a nylon sleeve if needed.
 </h3>
-
+----
 <h3>4. Sanity Check.
 <br> Empty,
 </h3>
-
-
 
 ----

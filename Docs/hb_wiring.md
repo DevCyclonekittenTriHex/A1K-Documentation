@@ -2,7 +2,7 @@
 title: Heated Bed
 layout: home
 parent: Build
-nav_order: 8
+nav_order: 3
 ---
 
 <h1>Hardware assembly guide</h1>
