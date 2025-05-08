@@ -60,12 +60,6 @@ nav_order: 2
             <td>$25</td>
         </tr>
         <tr>
-            <td>Cable Ties</td>
-            <td>1</td>
-            <td>20cm Length</td>
-            <td>$3</td>
-        </tr>
-        <tr>
             <td><b>TOTAL</b></td>
             <td></td>
             <td></td>
@@ -74,6 +68,29 @@ nav_order: 2
     </tbody>
 </table>
 
+<h2>Optional Hardware</h2>
+<table>
+        <tr>
+            <td>Part</td>
+            <td>Quantity</td>
+            <td>Option</td>
+            <td>Price</td>
+        </tr>
+        <tr>
+            <td>MellowFly HDMI7</td>
+            <td>Optional</td>
+            <td>Screen</td>
+            <td>$51</td>
+        </tr>
+        <tr>
+            <td>CYD klipper screen</td>
+            <td>1</td>
+            <td>Allows stock bambu a1 esk screen with custom design.</td>
+            <td>$20</td>
+        </tr>
+        
+    </tbody>
+</table>
 
 <h2>Equipment</h2>
 <h3>This is equipment that you might have laying around, these items aren't project specific but are needed.</h3>
