@@ -13,8 +13,8 @@ nav_order: 1
 <h3>1. X Motor
 <br>Start by removing the live camera and all connectors that travel through the hub on the side.
 </h3>
-<image src="Images/Hardware/hub_removal_1.jpg">
-<image src="Images/Hardware/camera_and_sleeve_1.jpg">
+<image src="Images/Hardware/hub_removal_1.jpg" style="width:40%,height:40%">
+<image src="Images/Hardware/camera_and_sleeve_1.jpg" style="width:40%,height:40%">
 <h5>Source: Bambu Labs Wiki</h5>
 <h3>The current state of your printer will be where there is no nylon sleeve and all the wires from the side hub and the toolhead are gone.
 <br>Start by wiring the x motor connector and wire it into the electronics box placed on the side [need image]
