@@ -4,11 +4,13 @@ layout: home
 nav_order: 2
 ---
 
-
 <h1>Bill of Materials</h1>
-<h2><b>All prices are in aud and may change, this excludes aliexpress tax, but includes shipping.</b></h2>
+
 ----
-<h2>HardWare</h2>
+
+<h2>Hardware</h2>
+<h4>This is hardware that is required to modify the printer, all prices are in AUD, for british pounds, just divide the value by 2</h4>
+
 <table>
     <tbody>
         <tr>
@@ -48,12 +50,6 @@ nav_order: 2
             <td>$6</td>
         </tr>
         <tr>
-            <td>MellowFly HDMI7</td>
-            <td>Optionall</td>
-            <td>Screen</td>
-            <td>$51</td>
-        </tr>
-        <tr>
             <td>500g Filament Spool For Parts</td>
             <td>1</td>
             <td>PETG or ABS</td>
@@ -63,13 +59,16 @@ nav_order: 2
             <td><b>TOTAL</b></td>
             <td></td>
             <td></td>
-            <td><b>$9001</b></td>
+            <td><b>Ever evolving, do the maths yourself</b></td>
         </tr>
     </tbody>
 </table>
 
+----
+
 <h2>Optional Hardware</h2>
 <table>
+    <tbody>
         <tr>
             <td>Part</td>
             <td>Quantity</td>
@@ -88,12 +87,31 @@ nav_order: 2
             <td>Allows stock bambu a1 esk screen with custom design.</td>
             <td>$20</td>
         </tr>
-        
+        <tr>
+            <td>SSR for Heated bed</td>
+            <td>1</td>
+            <td>Basically required, but hasn't been added to my build yet.</td>
+            <td>$25</td>
+        </tr>
+        <tr>
+            <td>14AWG Insulated Wire</td>
+            <td>1</td>
+            <td>Thick wiring for mains voltage and amperage.</td>
+            <td>$10</td>
+        </tr>
+        <tr>
+            <td>ADXL345 Acellerometer</td>
+            <td>1</td>
+            <td>Allows Input shaping, this is a must for high speed with quality.</td>
+            <td>$6</td>
+        </tr>
     </tbody>
 </table>
 
+----
+
 <h2>Equipment</h2>
-<h3>This is equipment that you might have laying around, these items aren't project specific but are needed.</h3>
+<h4>This is equipment that you might have laying around, these items aren't project specific but are needed.</h4>
 <table>
     <tbody>
         <tr>
@@ -126,6 +144,12 @@ nav_order: 2
             <td>Cable Management</td>
             <td>$2</td>
         </tr>
+        <tr>
+            <td>Hex screwdriver M1.5, M2.0</td>
+            <td>Comes with a1 printer, for dissasembly.</td>
+            <td>$2</td>
+        </tr>
     </tbody>
 </table>
+
 ---
