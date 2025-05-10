@@ -13,11 +13,11 @@ nav_order: 1
 <h2>1. Removing toolhead and side hub wiring</h2>
 <h4>Start by removing the live camera and all connectors that travel through the hub on the side.</h4>
 
-<div>
-    <image src="Images/Hardware/hub_removal_1.jpg">
-    <image src="Images/Hardware/camera_and_sleeve_1.jpg">
-    <h5>Source: Bambu Labs Wiki</h5>
-</div>
+![HubRemoval](/Images/Hardware/hub_removal_1.jpg){: width="250" }
+![HubRemoval](/Images/Hardware/camera_and_sleeve_1.jpg){: width="250" }
+
+<h5>Source: Bambu Labs Wiki</h5>
+
 
 <h4>The current state of the printer should be as follows:
     <br>All wires going to toolhead and x motor hub should be removed
