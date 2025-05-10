@@ -28,5 +28,6 @@ nav_order: 1
 <br>Plug them into the pico ports for the motors and the 24V in. [need image].
 ----
 <h3>3. Toolhead wiring</h3>
-<h3>Some stuff routes from the toolhead to the mb, it will be plugged in later.</h3>
+<h4>Some stuff routes from the toolhead to the mb, it will be plugged in later.</h4>
+<image src="Images/Pinout/mainboard_plugging.png">
 ----
