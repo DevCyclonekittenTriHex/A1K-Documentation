@@ -12,15 +12,11 @@ nav_order: 2
 <image src="Images/Hardware/toolhead_board_removal_2.jpg">
 <h5>Source: Bambu Labs Wiki</h5>
 ----
-<h3>2. Prepare the cables.
-<br>The cables that are required are as follows:
-<br>insert image of as follows,
-<br>jst xh 4 pin female to male
-<br>jst xh 4 pin male, to on other end, jst xh 2, and jst xh 3,
-<br>jst xh 5 pin male, to other end, jst xh 5,
-<br>Jst xh 2 pin, for thermister
-<br>jst xh 2 pin for hotend.
-<br>And take out the hotend, solder on wires and jst xh x 2 for the hotend and thermister
+<h3>2. Prepare the cables.</h3>
+<h4>The cables that are required are as follows:
+<br><b>All cables are 1 metre in length, and all the jst xh connectors have the tabs up.</b></h4>
+<image src="Images/toolhead_cables.png">
+
 </h3>
 ----
 
