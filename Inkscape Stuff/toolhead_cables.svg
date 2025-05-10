@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="toolhead_cables.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9611953"
+     inkscape:cx="40.017624"
+     inkscape:cy="276.74635"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="47.953609"
+       y="161.0836"
+       width="162.09671"
+       height="145.88704"
+       id="rect5" />
+    <rect
+       x="246.18437"
+       y="284.00694"
+       width="186.74891"
+       height="110.42838"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cccccc;stroke-width:0.178382"
+       id="rect1"
+       width="7.0761733"
+       height="7.581615"
+       x="21.134361"
+       y="51.228237" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.105148"
+       y="54.444054" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.024937"
+       y="53.64994" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect3"
+       width="35.191326"
+       height="0.94770181"
+       x="28.147354"
+       y="52.428658" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="rect3-9"
+       width="35.191326"
+       height="0.94770181"
+       x="28.134109"
+       y="55.940701" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.178382"
+       id="rect1-1"
+       width="7.0761733"
+       height="7.581615"
+       x="20.972292"
+       y="120.01598" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-1"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.943079"
+       y="123.2318" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0-0"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.862867"
+       y="122.43768" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect3-1"
+       width="35.191326"
+       height="0.94770181"
+       x="27.985285"
+       y="121.2164" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="rect3-9-1"
+       width="35.191326"
+       height="0.94770181"
+       x="27.97204"
+       y="124.72845" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.178382"
+       id="rect1-5"
+       width="7.0761733"
+       height="7.581615"
+       x="21.078979"
+       y="61.060604" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-3"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.049767"
+       y="64.276421" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0-8"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.969555"
+       y="63.482307" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.242529"
+       id="rect1-5-4"
+       width="7.0761733"
+       height="14.014828"
+       x="21.049648"
+       y="71.100899" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-3-9"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.020435"
+       y="74.316719" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0-8-1"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.029573"
+       y="80.759972" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.264583"
+       id="rect3-98"
+       width="35.191326"
+       height="0.94770181"
+       x="28.091974"
+       y="62.261024" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8"
+       width="35.191326"
+       height="0.94770181"
+       x="28.061296"
+       y="73.077011" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7"
+       width="35.191326"
+       height="0.94770181"
+       x="27.891403"
+       y="82.104042" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0"
+       width="35.191326"
+       height="0.94770181"
+       x="27.8922"
+       y="78.975998" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0-2"
+       width="35.191326"
+       height="0.94770181"
+       x="27.98155"
+       y="75.879936" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.242529"
+       id="rect1-5-4-4"
+       width="7.0761733"
+       height="14.014828"
+       x="21.026505"
+       y="87.192741" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-3-9-8"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.997292"
+       y="90.408562" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0-8-1-0"
+       width="3.7080326"
+       height="1.6083031"
+       x="21.00643"
+       y="96.851814" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-5"
+       width="35.191326"
+       height="0.94770181"
+       x="28.038153"
+       y="89.168854" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-2"
+       width="35.191326"
+       height="0.94770181"
+       x="27.868259"
+       y="98.195885" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0-3"
+       width="35.191326"
+       height="0.94770181"
+       x="27.869057"
+       y="95.067841" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0-2-5"
+       width="35.191326"
+       height="0.94770181"
+       x="27.958406"
+       y="91.971779" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.242529"
+       id="rect1-5-4-4-6"
+       width="7.0761733"
+       height="14.014828"
+       x="20.977964"
+       y="103.28191" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-3-9-8-8"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.948751"
+       y="106.49773" />
+    <rect
+       style="fill:#999999;stroke-width:0.177488"
+       id="rect2-0-8-1-0-0"
+       width="3.7080326"
+       height="1.6083031"
+       x="20.95789"
+       y="112.94098" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-5-2"
+       width="35.191326"
+       height="0.94770181"
+       x="27.989613"
+       y="105.25802" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-2-1"
+       width="35.191326"
+       height="0.94770181"
+       x="27.819719"
+       y="114.28504" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0-3-7"
+       width="35.191326"
+       height="0.94770181"
+       x="27.820517"
+       y="111.15701" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect3-98-8-7-0-2-5-1"
+       width="35.191326"
+       height="0.94770181"
+       x="27.909866"
+       y="108.06094" />
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="rect3-9-5"
+       width="35.191326"
+       height="0.94770181"
+       x="28.07873"
+       y="65.773071" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="0.89350188"
+       y="56.022564"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#000000;stroke-width:0.264583"
+         x="0.89350188"
+         y="56.022564">Hotend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="0.76561075"
+       y="65.844505"
+       id="text3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="fill:#000000;stroke-width:0.264583"
+         x="0.76561075"
+         y="65.844505">Thermister</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4"
+       style="white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.76521px;fill:#000000;stroke-width:0.230433"
+       x="1.2144763"
+       y="67.078957"
+       id="text6"
+       transform="scale(0.87093077,1.1481969)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="fill:#000000;stroke-width:0.230433"
+         x="1.2144763"
+         y="67.078957">Extruder Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="3.3059566"
+       y="95.247292"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.264583"
+         x="3.3059566"
+         y="95.247292">Part cooling fan</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="3.3059566"
+         y="99.216042"
+         id="tspan8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="3.7527077"
+       y="110.61552"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.264583"
+         x="3.7527077"
+         y="110.61552">extruder fan</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="3.7527077"
+         y="114.58427"
+         id="tspan10" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="0.80415165"
+       y="130.89801"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.264583"
+         x="0.80415165"
+         y="130.89801">biqu microprobe</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="0.80415165"
+         y="134.86674"
+         id="tspan12" /></text>
+  </g>
+</svg>
