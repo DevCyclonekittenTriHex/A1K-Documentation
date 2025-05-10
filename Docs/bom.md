@@ -83,25 +83,25 @@ nav_order: 2
         </tr>
         <tr>
             <td>CYD klipper screen</td>
-            <td>1</td>
+            <td>Optional</td>
             <td>Allows stock bambu a1 esk screen with custom design.</td>
             <td>$20</td>
         </tr>
         <tr>
             <td>SSR for Heated bed</td>
-            <td>1</td>
+            <td>Optional</td>
             <td>Basically required, but hasn't been added to my build yet.</td>
             <td>$25</td>
         </tr>
         <tr>
             <td>14AWG Insulated Wire</td>
-            <td>1</td>
+            <td>Optional</td>
             <td>Thick wiring for mains voltage and amperage.</td>
             <td>$10</td>
         </tr>
         <tr>
             <td>ADXL345 Acellerometer</td>
-            <td>1</td>
+            <td>Optional</td>
             <td>Allows Input shaping, this is a must for high speed with quality.</td>
             <td>$6</td>
         </tr>
